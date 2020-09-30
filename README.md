@@ -9,16 +9,16 @@ I have used POSTMAN for API Testing.
 
 I have made APIs for 
 1) Retrieving Hospitals [GET]<br><br>
-<img src="GET-HOSPITAL_DETAILS.PNG" height="600" width="900">
+<img src="pictures/GET-HOSPITAL_DETAILS.PNG" height="600" width="900">
 2) Retrieving Ventilators [GET]<br><br>
-<img src="GET-VENTILATOR_DETAILS.PNG" height="600" width="900">
+<img src="pictures/GET-VENTILATOR_DETAILS.PNG" height="600" width="900">
 3) Retrieving ventilators by status [GET]<br><br>
-<img src="GET-VENTILATOR BY STATUS.PNG" height="600" width="900">
+<img src="pictures/GET-VENTILATOR BY STATUS.PNG" height="600" width="900">
 4) Retrieving ventilators by hospital names. [GET] <br><br>
-<img src="GET-VENTILATOR BY HOSPITAL NAME.PNG" height="600" width="900">
+<img src="pictures/GET-VENTILATOR BY HOSPITAL NAME.PNG" height="600" width="900">
 5) Updating ventilator status using it's vid. [PUT]<br><br>
-<img src="UPDATE-API.PNG" height="600" width="900">
+<img src="pictures/UPDATE-API.PNG" height="600" width="900">
 6) Adding a new ventilator [POST]<br><br>
-<img src="ADD NEW VENT API.PNG" height="600" width="900">
+<img src="pictures/ADD NEW VENT API.PNG" height="600" width="900">
 7) Deleting a ventilator. [DELETE]<br><br>
-<img src="DELETE VENTILATOR.PNG" height="600" width="900">
+<img src="pictures/DELETE VENTILATOR.PNG" height="600" width="900">
