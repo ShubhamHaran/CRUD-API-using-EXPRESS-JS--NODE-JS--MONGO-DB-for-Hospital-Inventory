@@ -23,7 +23,7 @@ console.log(`Database: ${dbName}`);
 app.get('/', function (req, res) {
     res.writeHead(200, { 'Content-Type': 'text/html' });
     // res.write()
-    res.write("<h1 style='color:red'>Welcome to Hospital Management System!</h1>");
+    res.write("<h1 style='color:red'>Welcome to Hospital Management System by 18BD1A0519!</h1>");
     res.end();
 });
 //HOSPITALINFO
